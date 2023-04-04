@@ -4,7 +4,7 @@
     "url": "https://www.wureset.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wureset.com.ico",
     "slug": "wureset-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 942,
     "timeMonth": 894,
     "timeYear": 894,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-04": 0
+    }
   }
 ]
