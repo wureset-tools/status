@@ -4,19 +4,19 @@
     "url": "https://www.wureset.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wureset.com.ico",
     "slug": "wureset-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 910,
-    "timeDay": 919,
-    "timeWeek": 970,
-    "timeMonth": 910,
-    "timeYear": 910,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "94.56%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 881,
+    "timeDay": 545,
+    "timeWeek": 881,
+    "timeMonth": 881,
+    "timeYear": 881,
     "dailyMinutesDown": {
-      "2023-04-06": 0
+      "2023-04-06": 78
     }
   }
 ]
