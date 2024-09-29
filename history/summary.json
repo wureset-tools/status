@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 287,
-    "timeDay": 346,
-    "timeWeek": 337,
-    "timeMonth": 329,
+    "timeDay": 353,
+    "timeWeek": 342,
+    "timeMonth": 322,
     "timeYear": 286,
-    "dailyMinutesDown": {
-      "2023-09-30": 77
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "docs.wureset.com",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 167,
-    "timeWeek": 185,
-    "timeMonth": 175,
+    "timeDay": 135,
+    "timeWeek": 180,
+    "timeMonth": 171,
     "timeYear": 153,
     "dailyMinutesDown": {}
   }
